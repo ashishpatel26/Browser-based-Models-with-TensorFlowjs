@@ -1,0 +1,2 @@
+# Browser-based-Models-with-TensorFlow.js
+You may think that machine learning models can only be trained with supercomputers and big data. This first course shows you how you can train and run machine learning models in any browser using TensorFlow.js. You’ll learn techniques for handling data in the browser, and at the end you’ll build a computer vision project that recognizes and classifies objects from a webcam. deeplearning.ai  certificate : https://www.coursera.org/account/accomplishments/records/BURZEBYF8K3A
